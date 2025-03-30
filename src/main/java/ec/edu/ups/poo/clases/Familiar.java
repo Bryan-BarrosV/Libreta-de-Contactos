@@ -22,6 +22,7 @@ public class Familiar extends Persona {
 
     public void setParentesco(String parentesco) {
         this.parentesco = parentesco;
+
     }
 
     public String getTipoDeSangre() {

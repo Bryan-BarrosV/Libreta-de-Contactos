@@ -20,7 +20,7 @@ public class Principal {
         int numFamiliares = scanner.nextInt();
         scanner.nextLine();
 
-        // Ingresar personas
+        // Ingresar datos de la persona
 
         for (int i = 0; i < numPersonas; i++) {
             System.out.println("\nIngrese los datos de la persona #" + (i + 1));
