@@ -15,10 +15,10 @@ public class Principal {
         
         while (true) {
             System.out.println("\n-------Menú de Opciones-------");
-            System.out.println("1. Agregar una persona ");
-            System.out.println("2. Agregar un familiar ");
-            System.out.println("3. Mostrar todas las personas y familiares ");
-            System.out.println("4. Salir ");
+            System.out.println("1. Agregar una persona: ");
+            System.out.println("2. Agregar un familiar:  ");
+            System.out.println("3. Mostrar todas las personas y familiares: ");
+            System.out.println("4. Salir: ");
             System.out.print("Seleccione una opción: ");
             int opcion = scanner.nextInt();
             scanner.nextLine();
