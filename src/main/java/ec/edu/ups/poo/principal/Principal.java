@@ -14,7 +14,7 @@ public class Principal {
         int contFamiliares = 0;
         
         while (true) {
-            System.out.println("\n-------MENU DE OPCIONES-------");
+            System.out.println("\n------- MENU DE OPCIONES -------");
             System.out.println("1. Agregar una persona: ");
             System.out.println("2. Agregar un familiar:  ");
             System.out.println("3. Mostrar todas las personas y familiares: ");
